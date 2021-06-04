@@ -38,4 +38,4 @@ def get_amount_differences():
               f'report data.')
 
 
-get_amount_differences()
+# get_amount_differences()

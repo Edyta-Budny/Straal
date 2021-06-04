@@ -7,4 +7,4 @@ def show_transactions():
           f'Non chargeback transactions:\n{non_chargebacks_transactions}')
 
 
-show_transactions()
+# show_transactions()
