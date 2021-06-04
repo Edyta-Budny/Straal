@@ -36,6 +36,3 @@ def get_amount_differences():
         print(f'All transaction amounts with chargebacks in database are '
               f'{percent_amount_difference[0]} % greater compared to the '
               f'report data.')
-
-
-# get_amount_differences()
